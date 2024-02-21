@@ -1,4 +1,4 @@
-# Restart Windows Explorer Remotely Without PSRemoting
+# Restart Windows Explorer
 
 ## Introduction
 
